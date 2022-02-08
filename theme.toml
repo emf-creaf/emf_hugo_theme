@@ -3,7 +3,7 @@
 
 name = "EMF Hugo Theme"
 license = "MIT"
-licenselink = ""
+licenselink = "https://github.com/emf-creaf/emf_hugo_theme/blob/main/LICENSE"
 description = "Tailored theme for EMF web"
 homepage = "http://example.com/"
 tags = ["EMF", "web"]
