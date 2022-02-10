@@ -15,7 +15,7 @@
     surname = "Granda-García"
     affiliation = "Ecosystem Modelling Facility - CREAF"
     aff_link = ""
-    summary = "Plant biologist turned into data scientist. Open source and data enthusiast with a knack for programming in R."
+    summary = "Plant biologist turned into data scientist. Open source and open data enthusiast with a knack for programming in R."
     image = "img/authors/vgranda.png"
     core = true
     position = "Data Scientist"
